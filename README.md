@@ -1,6 +1,6 @@
 # 使用AI推动医疗智能
 
-抗击新型冠状肺炎疫情，武汉加油！
+抗击新型冠状肺炎疫情，为武汉加油！
 
 ### 209nCoV-AI网址
 - **Github**：https://2019ncov-ai.github.io/2019nCoV-AI/
