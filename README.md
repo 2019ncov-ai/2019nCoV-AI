@@ -4,7 +4,7 @@
 
 ### 209nCoV-AI网址
 - **Github**：https://2019ncov-ai.github.io/2019nCoV-AI/
-- **在线CT影像检测**：https://www.ct2019ncov.com(http://121.41.90.149)
+- **在线X片/CT影像检测**：https://www.ct2019ncov.com(http://121.41.90.149)
 
 
 
